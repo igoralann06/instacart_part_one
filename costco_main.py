@@ -46,7 +46,11 @@ categories = [
     "https://www.instacart.com/store/costco/collections/rc-whats-new",
     "https://www.instacart.com/store/costco/collections/rc-fall-favorites",
     "https://www.instacart.com/store/costco/collections/rc-large-item-delivery",
-    "https://www.instacart.com/store/costco/collections/rc-get-ready-for-fall-2024"
+    "https://www.instacart.com/store/costco/collections/rc-get-ready-for-fall-2024",
+    "https://www.instacart.com/store/costco/collections/10888-liquor-ready-drinks?sisid=29603",
+    "https://www.instacart.com/store/costco/collections/10242-beer-cider",
+    "https://www.instacart.com/store/costco/collections/rc-valentines-favorites",
+    "https://www.instacart.com/store/costco/collections/10235-wine"
 ]
 
 category_titles = [
@@ -70,10 +74,14 @@ category_titles = [
     "Other Goods",
     "Sales",
     "Cakes",
-    "New",
+    "What's New",
     "Fall Favorites",
     "Large Item Delivery",
-    "Get ready for Fall"
+    "Get ready for Fall",
+    "Liquor & Ready Drinks",
+    "Beer",
+    "Valentine's Favorites",
+    "Wine"
 ]
 
 def is_relative_url(string):
